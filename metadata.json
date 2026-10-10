@@ -1,0 +1,6 @@
+{
+  "name": "LeadLens - Multi-Tenant Abandoned Lead Tracker",
+  "description": "Multi-tenant drop-off lead capture and recovery SaaS for clothing brands with Supabase PostgreSQL RLS schema, universal JavaScript tracker, and WhatsApp recovery dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
